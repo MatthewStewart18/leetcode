@@ -1,2 +1,2 @@
 # leetcode
-interview prep / independent learning
+interview prep / learning
